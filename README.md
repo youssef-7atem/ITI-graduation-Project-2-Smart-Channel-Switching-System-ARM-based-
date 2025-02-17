@@ -12,7 +12,7 @@ The **ARM-based Smart Channel Switching System** is an advanced embedded systems
 - **System Tick Timer (STK)**: Utilizes the ARM System Tick Timer for precise timing control, ensuring accurate channel switching intervals.
 
 ## Technologies Used
-- **Microcontroller**: ARM Cortex-M series (e.g., STM32, LPC1768)
+- **Microcontroller**: ARM Cortex-M series (STM32, LPC1768)
 - **Programming Language**: Embedded C
 - **Communication Protocols**: SPI, I2C, UART
 - **Peripherals**: TFT Display, LED Matrix, GPIO, DMA, NVIC, RCC (Reset and Clock Control)
@@ -29,4 +29,7 @@ The **ARM-based Smart Channel Switching System** is an advanced embedded systems
 - **Communication Systems**: Ideal for managing multiple communication channels in real-time systems.
 - **IoT Devices**: Can be used in IoT devices that require dynamic channel switching and efficient data handling.
 - **Embedded Systems**: Suitable for embedded systems that need precise timing and interrupt handling.
+
+![image](https://github.com/user-attachments/assets/28c229de-bfc4-4ba7-abfb-a8dac420610f)
+
 
