@@ -1,4 +1,4 @@
-# ARM-based Smart Channel Switching System
+![image](https://github.com/user-attachments/assets/12f35be1-cc72-464c-9e09-09df694b0cec)# ARM-based Smart Channel Switching System
 
 ## Project Overview
 The **ARM-based Smart Channel Switching System** is an advanced embedded systems project designed to demonstrate real-time processing and efficient channel management using ARM architecture. The system leverages ARM's powerful interrupt handling capabilities to manage multiple channels dynamically, ensuring seamless switching and optimal performance. This project is ideal for applications in communication systems, IoT devices, and real-time embedded systems.
@@ -25,10 +25,13 @@ The **ARM-based Smart Channel Switching System** is an advanced embedded systems
 4. **Display Feedback**: The selected channel and system status are displayed on the TFT screen, providing real-time visual feedback to the user.
 5. **LED Matrix Communication**: The LED matrix is used to transmit and receive channel data, demonstrating the system's ability to handle bidirectional communication efficiently.
 
+
+
 ## Applications
 - **Communication Systems**: Ideal for managing multiple communication channels in real-time systems.
 - **IoT Devices**: Can be used in IoT devices that require dynamic channel switching and efficient data handling.
 - **Embedded Systems**: Suitable for embedded systems that need precise timing and interrupt handling.
+- [UART-SPI-TFT-screen-master.zip](https://github.com/user-attachments/files/18830271/UART-SPI-TFT-screen-master.zip)
 
 ![image](https://github.com/user-attachments/assets/28c229de-bfc4-4ba7-abfb-a8dac420610f)
 
