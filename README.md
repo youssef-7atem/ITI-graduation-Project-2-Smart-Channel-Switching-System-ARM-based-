@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/12f35be1-cc72-464c-9e09-09df694b0cec)# ARM-based Smart Channel Switching System
+# ARM-based Smart Channel Switching System
 
 ## Project Overview
 The **ARM-based Smart Channel Switching System** is an advanced embedded systems project designed to demonstrate real-time processing and efficient channel management using ARM architecture. The system leverages ARM's powerful interrupt handling capabilities to manage multiple channels dynamically, ensuring seamless switching and optimal performance. This project is ideal for applications in communication systems, IoT devices, and real-time embedded systems.
